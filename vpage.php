@@ -2,11 +2,10 @@
 <head>
 <title>blood donation|registration form</title>
 <link rel="stylesheet" href="styles.css">
-<script type="text/javascript" src="script.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
 <style>
 table, th, td{
-	margin:auto;
-	margin:; 
+	margin:auto; 
 	background-color:black;
 	size:30px;
 	padding:10px;
